@@ -4,3 +4,4 @@ if(ronaldo == messi):
     print("ronaldo")
 else:
     print("they are not equal")
+    print("messi")
